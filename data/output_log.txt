@@ -1,0 +1,19 @@
+--- GPU TEST SUITE COMMENCING ---
+Test 1: Small Scale (4x4)
+Processing 4 x 4 Matrix Multiplication...
+
+Result Matrix C (Sample):
+0.8 1.1 1.1 0.6
+0.8 0.9 1.0 0.5
+1.4 1.7 1.7 1.2
+1.3 1.3 1.3 0.7
+
+Test 2: Medium Scale (256x256)
+Processing 256 x 256 Matrix Multiplication...
+
+Matrix too large to print. Success.
+
+Test 3: Large Scale (1024x1024)
+Processing 1024 x 1024 Matrix Multiplication...
+
+Matrix too large to print. Success.
